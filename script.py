@@ -70,7 +70,7 @@ def app():
         "1. Click Start Face Detection to begin.\n"\
         "2. Use sliders to adjust detection sensitivity.\n"\
         "3. Pick a rectangle color to highlight faces.\n"\
-        "4. Click Save Image to save a snapshot.\n"\
+        "4. A snapshot will be saved to your device every 30 seconds.\n"\
         "5. Click Stop Detection to stop webcam.\n"\
         )
     
